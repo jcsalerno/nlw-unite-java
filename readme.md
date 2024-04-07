@@ -22,12 +22,12 @@ O Pass-in é uma aplicação Java desenvolvida para gerenciar eventos e particip
 ## Como Executar o Programa
 
 Para executar o Pass-in, siga as etapas de instalação mencionadas acima. Após a execução, o programa estará disponível em `http://localhost:8080`.
-## ### Regras de negócio
+## Regras de negócio
 
 - O participante só pode se inscrever em um evento uma única vez;
 - O participante só pode se inscrever em eventos com vagas disponíveis;
 - O participante só pode realizar check-in em um evento uma única vez;
-- 
+
 ## Exemplos de Uso
 
 ### Criar Evento
